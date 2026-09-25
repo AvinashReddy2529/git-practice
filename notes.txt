@@ -1,4 +1,4 @@
-Hi I'm learning git hub
+I am learning Git with version A.
 I made my second change.
 My goal is to collaborate on a GitHub project.
 I can push changes to GitHub.
