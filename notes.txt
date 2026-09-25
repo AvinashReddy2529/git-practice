@@ -1,2 +1,3 @@
 Hi I'm learning git hub
 I made my second change.
+My goal is to collaborate on a GitHub project.
